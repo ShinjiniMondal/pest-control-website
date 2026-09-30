@@ -1,0 +1,8 @@
+# Dependencies and temporary folders
+template_assets/
+template_html/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
